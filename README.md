@@ -2,7 +2,9 @@
 - 👀 I’m interested in Data Science, Machine Learning, Big Data
 - 🌱 I’m currently learning HADOOP
 - 💞️ I’m looking to collaborate on Data Science Projects 
-- 📫 How to reach me https://www.linkedin.com/in/adilbagwan/ 
+- 📫 How to reach me
+- 1.  https://www.linkedin.com/in/adilbagwan/ 
+- 2.  https://peerlist.io/adi_bagwan
 
 <!---
 AdilBagwan/AdilBagwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
